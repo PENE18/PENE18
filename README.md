@@ -1,7 +1,7 @@
-                        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 ##### Hi there 👋  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+                 
 - I am currently working as a junior Data scientiste at [Orange - Sonatel](https://sonatel.sn). I come with an extensive experience of working with different technologies        including Machine Learning ,Deep Learning, Natural Language processing , and Computer vision.
 ##### Things I'm good at 🔥
 ##### Domaine: 
@@ -13,4 +13,4 @@
 ##### Data analysis:
 - Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Azure analystics.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
