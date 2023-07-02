@@ -1,3 +1,6 @@
+                        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 ##### Hi there 👋  
 - I am currently working as a junior Data scientiste at [Orange - Sonatel](https://sonatel.sn). I come with an extensive experience of working with different technologies        including Machine Learning ,Deep Learning, Natural Language processing , and Computer vision.
 ##### Things I'm good at 🔥
