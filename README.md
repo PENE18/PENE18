@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamadou PENE</h1>
-<h3 align="center">A passionate of Data Engineering and DataOps</h3>
+<h3 align="center">A passionate of Data Engineering, DataOps and Quality </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pene18&label=Profile%20views&color=0e75b6&style=flat" alt="pene18" /> </p>
 
