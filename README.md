@@ -20,7 +20,7 @@
 class MamadouPENE:
     name       = "Mamadou PENE"
     role       = "Data Engineer & DataOps Specialist"
-    company    = "🟠 Orange Telecom"
+    company    = "🟠 Baamtu technologies"
     location   = "📍 Dakar, Sénégal"
     contact    = "mamadoupene95@gmail.com"
     currently  = [
